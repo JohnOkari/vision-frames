@@ -1,0 +1,63 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# development environment
+.env.local
+.env.development.local
+.env.test.local
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+
+# macOS files
+.DS_Store
+
+# npm cache
+/.npm
+
+# Jest coverage directory
+/coverage
+
+# build output for Storybook
+/storybook-static
+
+# Cypress videos and screenshots
+/cypress/videos
+/cypress/screenshots
+
+# Netlify build output
+/.netlify
+
+# Yarn error logs
+/yarn-error.log
+
+# Firebase local configuration
+/firebaseConfig.js
+
+# dotenv environment variables file
+/.env
+
+# Next.js build output
+/.next
+/out
+
+# Serverless deployment artifacts
+/.serverless
+
+# Amplify deployment artifacts
+/amplify
+
+# Vercel deployment artifacts
+/.vercel
+
+# ESLint cache
+/.eslintcache
+
+# Prettier cache
+/.prettiercache
