@@ -18,6 +18,7 @@ export const cartReducer = (state, action) => {
     case actionTypes.DELETE_PRODUCTS_FROM_CART:
       return {
         ...state,
+        
         cart: action.payload,
       };
 
