@@ -1,4 +1,4 @@
-# <h1 align="center"> Eyesome </h1>
+# <h1 align="center"> VisionFrames </h1>
 <h3 align="center">VisionFrames is a platform dedicated to providing a seamless shopping experience for eyewear products.</h3>
 <br/>
 
