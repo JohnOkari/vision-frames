@@ -54,9 +54,9 @@ const SingleProduct = ({ product }) => {
             </div>
 
             <div className="flex flex-col items-end">
-              <span className="text-amber-600">₹{product.newPrice}</span>
+              <span className="text-amber-600">KSh {product.newPrice}</span>
               <span className="text-sm text-gray-600 line-through">
-                {product.price}
+                KSh {product.price}
               </span>
             </div>
           </div>
