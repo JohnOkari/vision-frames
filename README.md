@@ -1,5 +1,5 @@
-# <h1 align="center"> VisionFrames </h1>
-<h3 align="center">VisionFrames is a platform dedicated to providing a seamless shopping experience for eyewear products.</h3>
+# <h1 align="center"> Eyesome </h1>
+<h3 align="center">Eyesome is a platform dedicated to providing a seamless shopping experience for eyewear products.</h3>
 <br/>
 
 ## Getting Started
@@ -45,4 +45,6 @@ To run the Eyesome ecommerce web application locally, please follow these steps:
 
 ## Demo
 
+
+https://github.com/SandhyaR1007/eyesome-react/assets/47480884/39c03156-7c35-448d-9ee5-ede9d3b3124d
 
